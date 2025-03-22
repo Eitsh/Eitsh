@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Eitsh/Eitsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer  
 
-Here are some ideas to get you started:
+- 📱 Building cross-platform mobile apps with Flutter  
+- 🎨 Crafting clean and responsive UI/UX  
+- ⚡ Optimizing performance and state management  
+- 🔧 Exploring Firebase, REST APIs, and local databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- Flutter animations & custom widgets  
+- Advanced state management (Provider, Riverpod, Bloc)  
+- Integrating third-party APIs  
+
+### 💡 Projects  
+Check out my repositories for Flutter projects! 🚀  
+
